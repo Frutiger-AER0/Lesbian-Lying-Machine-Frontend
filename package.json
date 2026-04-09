@@ -1,0 +1,16 @@
+{
+  "name": "lesbian-lying-machine-frontend",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "Anemoia",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "react": "^19.2.5",
+    "react-dom": "^19.2.5"
+  }
+}
